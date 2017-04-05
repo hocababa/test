@@ -1,9 +1,9 @@
-answer = input("Are you hungry? \n\t>> ")
+# Master Branch
+answer = input("Are you hungry, master? \n\t>> ")
 if answer == "yes" or answer == "y":
     print("Eat something!")
 else:
     print("Really?")
     print("This is stable version")
-
-print("This supposed to be a faster verison, in faster branch")
+print("Be away from sugar, it is a white monster!!")
 
